@@ -1,4 +1,6 @@
-# structural-directives
+# Structural Directives
+
+https://angular.io/guide/structural-directives
 
 In Angular, structural directives are a type of directive that allows you to dynamically manipulate the structure of the DOM (Document Object Model). They are responsible for adding, removing, or manipulating elements in the DOM based on certain conditions.
 
