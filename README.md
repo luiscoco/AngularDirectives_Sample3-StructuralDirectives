@@ -2,6 +2,8 @@
 
 https://angular.io/guide/structural-directives
 
+https://stackblitz.com/~/github.com/luiscoco/AngularDirectives_Sample3-StructuralDirectives
+
 In Angular, structural directives are a type of directive that allows you to dynamically manipulate the structure of the DOM (Document Object Model). They are responsible for adding, removing, or manipulating elements in the DOM based on certain conditions.
 
 Structural directives are denoted by an asterisk (*) before their name in the template. The most commonly used structural directives in Angular are ngIf, ngFor, and ngSwitch.
